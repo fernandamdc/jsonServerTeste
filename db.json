@@ -1,21 +1,13 @@
 {
-
 	"dicentes": [{
 		"pessoa": {
 			"nome": "Ana",
-
 			"ano_nascimento": 1984,
-
 			"notas": {
-
 				"n1": 7,
-
 				"n2": 5,
-
 				"n3": 4
-
 			}
 		}
 	}]
-
 }
