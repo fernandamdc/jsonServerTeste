@@ -1,8 +1,10 @@
 {
- "Livraria": [{
-		"livro": {
-			"titulo": "A casa do mar cerúleo",
-			"ano_lancamento": 1984,
-                        }
-  }]
+   "Livraria":[
+      {
+         "livro":{
+            "titulo":"A casa do mar cerúleo",
+            "ano_lancamento":1984
+         }
+      }
+   ]
 }
