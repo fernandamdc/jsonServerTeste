@@ -1,92 +1,17 @@
-[
-  {
-    "dicentes": [
-      {
-        "pessoa": {
-          "nome": "David",
-          "ano_nascimento": 2001,
-          "notas": {
-            "n1": 8.0,
-            "n2": 7.5,
-            "n3": 6.0
-          }
-        }
+{
+
+"nome":"Ana",
+
+"ano_nascimento": 1984,
+
+"notas":{
+
+"n1": 7,
+
+"n2": 5,
+
+"n3": 4,
+
       }
-    ]
-  },
-  {
-    "dicentes": [
-      {
-        "pessoa": {
-          "nome": "Marcos",
-          "ano_nascimento": 2004,
-          "notas": {
-            "n1": 8.5,
-            "n2": 7.6,
-            "n3": 9.0
-          }
-        }
-      }
-    ]
-  },
-  {
-    "dicentes": [
-      {
-        "pessoa": {
-          "nome": "Ana",
-          "ano_nascimento": 2003,
-          "notas": {
-            "n1": 8.5,
-            "n2": 7.2,
-            "n3": 8.6
-          }
-        }
-      }
-    ]
-  },
-  {
-    "dicentes": [
-      {
-        "pessoa": {
-          "nome": "Gabriel",
-          "ano_nascimento": 2004,
-          "notas": {
-            "n1": 8.5,
-            "n2": 5.4,
-            "n3": 9.0
-          }
-        }
-      }
-    ]
-  },
-  {
-    "dicentes": [
-      {
-        "pessoa": {
-          "nome": "Joana",
-          "ano_nascimento": 2001,
-          "notas": {
-            "n1": 8.5,
-            "n2": 7.2,
-            "n3": 7.5
-          }
-        }
-      }
-    ]
-  },
-  {
-    "dicentes": [
-      {
-        "pessoa": {
-          "nome": "David",
-          "ano_nascimento": 2001,
-          "notas": {
-            "n1": 8.5,
-            "n2": 7.2,
-            "n3": 7.3
-          }
-        }
-      }
-    ]
-  }
-]
+
+}
