@@ -1,84 +1,4 @@
-{
-      "dicentes":[
-      {
-
-"nome":"Ana",
-
-"ano_nascimento": 1984,
-
-"notas":{
-
-"n1": 7,
-
-"n2": 5,
-
-"n3": 4,
-
-      }
-
-},
-      {
-
-"nome":"Ana",
-
-"ano_nascimento": 1984,
-
-"notas":{
-
-"n1": 7,
-
-"n2": 5,
-
-"n3": 4,
-
-      }
-
-},
-            {
-
-"nome":"Ana",
-
-"ano_nascimento": 1984,
-
-"notas":{
-
-"n1": 7,
-
-"n2": 5,
-
-"n3": 4,
-
-      }
-
-},
-                  {
-
-"nome":"Ana",
-
-"ano_nascimento": 1984,
-
-"notas":{
-
-"n1": 7,
-
-"n2": 5,
-
-"n3": 4,
-
-      }
-
-},
-                        {
-    "dicentes": {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
-      "notas": {
-        "n1": 7,
-        "n2": 5,
-        "n3": 4
-      }
-    },
-  
+[
   {
     "dicentes": {
       "nome": "Ana",
@@ -88,26 +8,7 @@
         "n2": 5,
         "n3": 4
       }
-  },
-  {
-    "dicentes": {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
-      "notas": {
-        "n1": 7,
-        "n2": 5,
-        "n3": 4
-      }
-  },
-  {
-    "dicentes": {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
-      "notas": {
-        "n1": 7,
-        "n2": 5,
-        "n3": 4
-      }
+    }
   },
   {
     "dicentes": {
@@ -119,6 +20,38 @@
         "n3": 4
       }
     }
-            
+  },
+  {
+    "dicentes": {
+      "nome": "Ana",
+      "ano_nascimento": 1984,
+      "notas": {
+        "n1": 7,
+        "n2": 5,
+        "n3": 4
+      }
+    }
+  },
+  {
+    "dicentes": {
+      "nome": "Ana",
+      "ano_nascimento": 1984,
+      "notas": {
+        "n1": 7,
+        "n2": 5,
+        "n3": 4
+      }
+    }
+  },
+  {
+    "dicentes": {
+      "nome": "Ana",
+      "ano_nascimento": 1984,
+      "notas": {
+        "n1": 7,
+        "n2": 5,
+        "n3": 4
+      }
+    }
+  }
 ]
-}
