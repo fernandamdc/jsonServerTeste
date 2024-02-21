@@ -5,43 +5,43 @@
       "ano_nascimento": 1984,
       "notas": {
         "n1": 7,
-        "n2": 5,
-        "n3": 4
+        "n2": 10,
+        "n3": 10
       }
   },
   {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
+      "nome": "Fernanda",
+      "ano_nascimento": 2001,
       "notas": {
         "n1": 7,
-        "n2": 5,
-        "n3": 4
+        "n2": 6,
+        "n3": 8
       }
   },
   {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
+      "nome": "Marcos",
+      "ano_nascimento": 2004,
       "notas": {
-        "n1": 7,
-        "n2": 5,
-        "n3": 4
+        "n1": 10,
+        "n2": 6,
+        "n3": 5
       }
   },
   {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
+      "nome": "Thainara",
+      "ano_nascimento": 1996,
       "notas": {
         "n1": 7,
-        "n2": 5,
-        "n3": 4
+        "n2": 10,
+        "n3": 8
       }
   },
   {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
+      "nome": "Luciana",
+      "ano_nascimento": 1983,
       "notas": {
         "n1": 7,
-        "n2": 5,
+        "n2": 9,
         "n3": 4
       }
     }
