@@ -1,49 +1,24 @@
 {
-"dicentes": [ 
+"elementos": [ 
   {
-      "nome": "Ana",
-      "ano_nascimento": 1984,
-      "notas": {
-        "n1": 7,
-        "n2": 10,
-        "n3": 10
-      }
+      "ouro": "Ouro",
+      "tecido": "Tecido",
+      "aco": "Aço",
+      "madeira": "Madeira"
+    
   },
+ {
+"numeros": [ 
   {
-      "nome": "Fernanda",
-      "ano_nascimento": 2001,
-      "notas": {
-        "n1": 7,
-        "n2": 6,
-        "n3": 8
-      }
-  },
-  {
-      "nome": "Marcos",
-      "ano_nascimento": 2004,
-      "notas": {
-        "n1": 7,
-        "n2": 6,
-        "n3": 5
-      }
-  },
-  {
-      "nome": "Thainara",
-      "ano_nascimento": 1996,
-      "notas": {
-        "n1": 7,
-        "n2": 10,
-        "n3": 8
-      }
-  },
-  {
-      "nome": "Luciana",
-      "ano_nascimento": 1983,
-      "notas": {
-        "n1": 4,
-        "n2": 5,
-        "n3": 4
-      }
-    }
+      "n1": 1,
+      "n2": 2,
+      "n3": 3,
+      "n4": 4,
+      "n5": 5,
+      "n6": 6,
+      "n7": 8,
+      "n8": 9,
+      "n9": 10
+      
 ]
 }
