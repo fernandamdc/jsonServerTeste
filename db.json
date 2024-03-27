@@ -1,5 +1,5 @@
 {
-   "agenda" : [
+   "elementos" : [
     { "id" : 1 , "nome" : "Ouro" },
     { "id" : 2 , "nome" : "Tecido"},
     { "id" : 3 , "nome" : "Aço" },
